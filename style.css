@@ -1,0 +1,46 @@
+body {
+    background-color: lightskyblue;
+}
+@media (min-width: 768px) {
+    .pizzas {
+    display: flex;
+}
+}   
+@media (min-width: 768px) {
+    .contact {
+    /* float: left; */
+}
+}
+@media (min-width: 768px) {
+    .address {
+    /* float: right; */
+}
+}
+
+.medium {
+    background-color: orange;
+    border-radius: 0.80cm;
+    width: fit-content;
+    padding: 1em;
+    margin: 1em;
+}
+.large {
+    background-color: orangered;
+    border-radius: 0.80cm;
+    width: fit-content;
+    padding: 1em;
+    margin: 1em;
+}
+.small {
+    background-color: mediumvioletred;
+    border-radius: 0.80cm;
+    width: fit-content;
+    padding: 1em;
+    margin: 1em;
+}
+.footer {
+    background-color: yellowgreen;
+    border-radius: 0.80cm;
+    padding: 1em;
+    margin: 1em;
+}
