@@ -4,18 +4,9 @@ body {
 @media (min-width: 768px) {
     .pizzas {
     display: flex;
+    
 }
 }   
-@media (min-width: 768px) {
-    .contact {
-    /* float: left; */
-}
-}
-@media (min-width: 768px) {
-    .address {
-    /* float: right; */
-}
-}
 
 .medium {
     background-color: orange;
@@ -43,4 +34,5 @@ body {
     border-radius: 0.80cm;
     padding: 1em;
     margin: 1em;
+    
 }
